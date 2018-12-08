@@ -3,8 +3,8 @@ class GitPullRequest < Formula
 
   desc "Manage GitHub pull requests from the shell"
   homepage "https://github.com/pcl/git-pull-request"
-  url "https://github.com/pcl/git-pull-request/archive/v0.6.tar.gz"
-  sha256 "371009d37c6a085f72e04082c924cf8f598d9d7859d78f24d48c498447220c57"
+  url "https://github.com/pcl/git-pull-request/archive/v0.7.tar.gz"
+  sha256 "42461ee47644290fbfd53daa719dc3a26b57c3b5db1563c39d494381fd81ce67"
 
   depends_on "python" => :required
 
